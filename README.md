@@ -3,10 +3,13 @@
 The purpose of this analysis was to use the data from the test scores in the district in order to determine budgeting and other allocation of resources for the next school year.
 ## Results
 District Summaries:
+
 The original district summary is shown below:
 ![mod 4](https://user-images.githubusercontent.com/89167956/153621607-8d55d65f-3a84-4600-a4e0-c84f225a048a.PNG)
+
 Next is the district summary without the scores from the Thomas High School 9th graders:
 ![mod 4 pt 2](https://user-images.githubusercontent.com/89167956/153621700-c24bc315-7a55-4493-9d41-7ba72b1e052e.PNG)
+
 The scores did effect the data slightly, as almost every category shows very slight drops in their value.
 
 School Summary for Thomas High School:
